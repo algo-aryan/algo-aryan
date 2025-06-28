@@ -57,6 +57,10 @@ I'm a B.Tech CSE student at DTU, passionate about building **products that solve
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=algo-aryan&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/algo_aryan?theme=dark&font=Consolas&ext=contest" alt="LeetCode Stats" />
+</p>
+
 ---
 
 ## 📫 Let's Connect
