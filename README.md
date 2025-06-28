@@ -58,7 +58,7 @@ I'm a B.Tech CSE student at DTU, passionate about building **products that solve
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/algo_aryan?theme=dark&font=Consolas&ext=contest" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/algo-aryan?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
 </p>
 
 ---
