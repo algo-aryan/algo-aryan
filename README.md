@@ -23,10 +23,13 @@
 
   <br><br>
   
-  <img src="https://i.pinimg.com/originals/a4/96/c2/a496c2b6bc5d7cfe0e0674f6598c38ad.gif" width="100%" alt="Cartoonish Tech City Banner" style="border-radius: 15px;" />
+  <img src="https://media.giphy.com/media/QvBoMEcQ7DQXK/giphy.gif" width="100%" alt="Cartoonish Tech City Banner" style="border-radius: 15px;" />
 
 </div>
 
+<br>
+<!-- Blue Theme Divider (Above Who Am I) -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 <br><br>
 
 <div align="center">
@@ -40,20 +43,19 @@
 <br>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/8e/47/2a/8e472a15993d09a0a4c7e6eb5c7dd800.gif" width="250" align="right" style="border-radius: 15px; margin-left: 15px;">
+  <img src="https://i.pinimg.com/originals/8e/47/2a/8e472a15993d09a0a4c7e6eb5c7dd800.gif" width="250" style="border-radius: 15px; margin-bottom: 20px;">
   
-  <h2>
-    <font color="#FF00FF"><i>B.Tech Computer Science undergraduate at Delhi Technological University (DTU) with a 9.756 CGPA.</i></font>
-  </h2>
-  <h2>
-    <font color="#00FF66"><i>My engineering focus lies deeply in architecting highly scalable full-stack applications<br>and integrating intelligent AI-driven systems.</i></font>
-  </h2>
-  <h2>
-    <font color="#00FFFF"><i>I prioritize data privacy and clean software maintenance, whether I'm building advanced <code>RAG pipelines</code><br>or deploying automated robotic control frameworks.</i></font>
-  </h2>
+  <p align="center">
+    <font face="Impact" color="#FF00FF" size="6"><i>B.Tech Computer Science undergraduate at Delhi Technological University (DTU) with a 9.756 CGPA.</i></font>
+  </p>
+  <p align="center">
+    <font face="Courier New" color="#00FF66" size="6"><i>My engineering focus lies deeply in architecting highly scalable full-stack applications<br>and integrating intelligent AI-driven systems.</i></font>
+  </p>
+  <p align="center">
+    <font face="Georgia" color="#00FFFF" size="6"><i>I prioritize data privacy and clean software maintenance, whether I'm building advanced <code>RAG pipelines</code><br>or deploying automated robotic control frameworks.</i></font>
+  </p>
 </div>
 
-<br clear="all">
 <br>
 <!-- Blue Theme Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
@@ -70,22 +72,20 @@
 <table align="center" width="100%" style="border-collapse: separate; border-spacing: 0 15px;">
   <tr>
     <td align="center" style="padding: 40px; border: 2px solid #0088FF; background-color: #050B14; border-radius: 12px;">
-      <h1><font color="#FFFF00"><i><b>Software Engineer Intern</b></i></font></h1>
-      <h2><font color="#FF00FF"><i>@ Inferno DTU</i></font> &nbsp; <font color="#00FFFF"><i>(Aug 2024 - Oct 2024)</i></font></h2>
+      <font face="Arial Black" color="#FFFF00" size="7"><i>Software Engineer Intern</i></font><br>
+      <font face="Trebuchet MS" color="#FF00FF" size="6"><i>@ Inferno DTU</i></font> &nbsp; <font face="Courier New" color="#00FFFF" size="6"><i>(Aug 2024 - Oct 2024)</i></font><br><br>
       <img src="https://skillicons.dev/icons?i=python,linux,docker" height="40" /><br><br>
-      <h3>
-        <font color="#00FF66"><i>Improved a real-time monitoring GUI and remote control system for a multi-camera rover,<br>supporting 4+ live feeds and reducing manual intervention by 40%.</i></font><br><br>
-        <font color="#00FFFF"><i>Built and deployed automation packages using Python and ROS.</i></font><br><br>
-        <font color="#FF6600"><i>Designed a scalable robotic control framework that minimized system latency by 25%.</i></font>
-      </h3>
+      <font face="Georgia" color="#00FF66" size="5"><i>Improved a real-time monitoring GUI and remote control system for a multi-camera rover,<br>supporting 4+ live feeds and reducing manual intervention by 40%.</i></font><br><br>
+      <font face="Impact" color="#00FFFF" size="5"><i>Built and deployed automation packages using Python and ROS.</i></font><br><br>
+      <font face="Verdana" color="#FF6600" size="5"><i>Designed a scalable robotic control framework that minimized system latency by 25%.</i></font>
     </td>
   </tr>
   <tr>
     <td align="center" style="padding: 40px; border: 2px solid #00FFFF; background-color: #050B14; border-radius: 12px;">
-      <h1><font color="#00FF66"><i><b>DSA Mentor</b></i></font></h1>
-      <h2><font color="#FFFF00"><i>@ IEEE DTU</i></font> &nbsp; <font color="#FF00FF"><i>(Oct 2024)</i></font></h2>
+      <font face="Arial Black" color="#00FF66" size="7"><i>DSA Mentor</i></font><br>
+      <font face="Trebuchet MS" color="#FFFF00" size="6"><i>@ IEEE DTU</i></font> &nbsp; <font face="Courier New" color="#FF00FF" size="6"><i>(Oct 2024)</i></font><br><br>
       <img src="https://skillicons.dev/icons?i=cpp,github" height="40" /><br><br>
-      <h3><font color="#00FFFF"><i>Mentored 100+ students during TechWeek in Data Structures and Algorithms,<br>providing comprehensive guidance on problem-solving strategies and algorithmic thinking.</i></font></h3>
+      <font face="Georgia" color="#00FFFF" size="5"><i>Mentored 100+ students during TechWeek in Data Structures and Algorithms,<br>providing comprehensive guidance on problem-solving strategies and algorithmic thinking.</i></font>
     </td>
   </tr>
 </table>
@@ -111,7 +111,7 @@
 
 <table align="center" width="90%" style="border-collapse: collapse; text-align: center;">
   <tr>
-    <td width="30%" style="padding: 15px;"><h2><font color="#FF00FF"><i>Languages</i></font></h2></td>
+    <td width="30%" style="padding: 15px;"><font face="Impact" color="#FF00FF" size="6"><i>Languages</i></font></td>
     <td width="70%" align="center">
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -120,7 +120,7 @@
     </td>
   </tr>
   <tr>
-    <td style="padding: 15px;"><h2><font color="#00FF66"><i>Frameworks</i></font></h2></td>
+    <td style="padding: 15px;"><font face="Impact" color="#00FF66" size="6"><i>Frameworks</i></font></td>
     <td align="center">
       <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -128,7 +128,7 @@
     </td>
   </tr>
   <tr>
-    <td style="padding: 15px;"><h2><font color="#FFFF00"><i>Data & Tools</i></font></h2></td>
+    <td style="padding: 15px;"><font face="Impact" color="#FFFF00" size="6"><i>Data & Tools</i></font></td>
     <td align="center">
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -154,32 +154,32 @@
   <tr>
     <td width="50%" align="center" valign="top" style="padding: 30px; border: 2px solid #0088FF; background-color: #050B14; border-radius: 12px;">
       <img src="https://img.icons8.com/fluency/96/elections.png" width="80" align="center"/><br>
-      <h1><font color="#00FFFF"><i><b>Bharat-Mat</b></i></font></h1><br>
+      <font face="Arial Black" color="#00FFFF" size="7"><i>Bharat-Mat</i></font><br><br>
       <img src="https://img.shields.io/badge/AI_Powered-Fact_Checking-00FFFF?style=for-the-badge&labelColor=000000&color=0088FF" /><br><br>
-      <h3><font color="#FF00FF"><i>A comprehensive civic engagement and electoral integrity platform designed to safeguard democratic processes using AI-powered fact-checking and deepfake detection.</i></font></h3><br>
+      <font face="Georgia" color="#FF00FF" size="5"><i>A comprehensive civic engagement and electoral integrity platform designed to safeguard democratic processes using AI-powered fact-checking and deepfake detection.</i></font><br><br>
       <img src="https://skillicons.dev/icons?i=py,react,nodejs" height="40" />
     </td>
     <td width="50%" align="center" valign="top" style="padding: 30px; border: 2px solid #00FFFF; background-color: #050B14; border-radius: 12px;">
       <img src="https://img.icons8.com/fluency/96/combo-chart.png" width="80" align="center"/><br>
-      <h1><font color="#0088FF"><i><b>FinSight</b></i></font></h1><br>
+      <font face="Arial Black" color="#0088FF" size="7"><i>FinSight</i></font><br><br>
       <img src="https://img.shields.io/badge/Conformal_Prediction-LLMs-0088FF?style=for-the-badge&labelColor=000000&color=00FFFF" /><br><br>
-      <h3><font color="#00FF66"><i>A predictive financial forecasting ecosystem that transforms raw time-series banking data into proactive business intelligence utilizing Conformal Prediction and LLMs.</i></font></h3><br>
+      <font face="Georgia" color="#00FF66" size="5"><i>A predictive financial forecasting ecosystem that transforms raw time-series banking data into proactive business intelligence utilizing Conformal Prediction and LLMs.</i></font><br><br>
       <img src="https://skillicons.dev/icons?i=py,scikitlearn,flask" height="40" />
     </td>
   </tr>
   <tr>
     <td width="50%" align="center" valign="top" style="padding: 30px; border: 2px solid #00FFFF; background-color: #050B14; border-radius: 12px;">
       <img src="https://img.icons8.com/fluency/96/security-checked.png" width="80" align="center"/><br>
-      <h1><font color="#0088FF"><i><b>Vajra Sentinel</b></i></font></h1><br>
+      <font face="Arial Black" color="#0088FF" size="7"><i>Vajra Sentinel</i></font><br><br>
       <img src="https://img.shields.io/badge/Cybersecurity-Defense_in_Depth-0088FF?style=for-the-badge&labelColor=000000&color=00FFFF" /><br><br>
-      <h3><font color="#FFFF00"><i>A high-security ecosystem enforcing municipal data sovereignty. Features a strict Defense-in-Depth philosophy to protect registries against advanced adversarial threats.</i></font></h3><br>
+      <font face="Georgia" color="#FFFF00" size="5"><i>A high-security ecosystem enforcing municipal data sovereignty. Features a strict Defense-in-Depth philosophy to protect registries against advanced adversarial threats.</i></font><br><br>
       <img src="https://skillicons.dev/icons?i=go,cpp,linux" height="40" />
     </td>
     <td width="50%" align="center" valign="top" style="padding: 30px; border: 2px solid #0088FF; background-color: #050B14; border-radius: 12px;">
       <img src="https://img.icons8.com/fluency/96/bot.png" width="80" align="center"/><br>
-      <h1><font color="#00FFFF"><i><b>Campus Assistant BOT</b></i></font></h1><br>
+      <font face="Arial Black" color="#00FFFF" size="7"><i>Campus Assistant BOT</i></font><br><br>
       <img src="https://img.shields.io/badge/RAG_Architecture-NLP_Omnichannel-00FFFF?style=for-the-badge&labelColor=000000&color=0088FF" /><br><br>
-      <h3><font color="#FF6600"><i>An advanced, multilingual, omnichannel RAG chatbot. Implemented MMR for diverse retrieval, reducing redundant responses by 45% and improving accuracy by 30%.</i></font></h3><br>
+      <font face="Georgia" color="#FF6600" size="5"><i>An advanced, multilingual, omnichannel RAG chatbot. Implemented MMR for diverse retrieval, reducing redundant responses by 45% and improving accuracy by 30%.</i></font><br><br>
       <img src="https://skillicons.dev/icons?i=py,mongodb,aws" height="40" />
     </td>
   </tr>
@@ -201,38 +201,38 @@
 <table align="center" width="100%" style="border-collapse: separate; border-spacing: 15px;">
   <tr>
     <td align="center" width="50%" valign="top" style="padding: 25px; border: 2px solid #00FFFF; background-color: #050B14; border-radius: 12px;">
-      <h1><font color="#0088FF"><i><b>Hack4Delhi (MCD)</b></i></font></h1><br>
+      <font face="Impact" color="#0088FF" size="7"><i>Hack4Delhi (MCD)</i></font><br><br>
       <img src="https://img.shields.io/badge/🏆_2nd_Runner__Up-1500%2B_Teams-00FFFF?style=for-the-badge&labelColor=000000&color=0088FF" /><br><br>
-      <h3><font color="#FF00FF"><i>Proudly secured <b><font color="#00FFFF">2nd Runner-Up</font></b> out of 1500+ teams in a highly competitive municipal innovation challenge.</i></font></h3>
+      <font face="Courier New" color="#FF00FF" size="5"><i>Proudly secured <b><font color="#00FFFF">2nd Runner-Up</font></b> out of 1500+ teams in a highly competitive municipal innovation challenge.</i></font>
     </td>
     <td align="center" width="50%" valign="top" style="padding: 25px; border: 2px solid #0088FF; background-color: #050B14; border-radius: 12px;">
-      <h1><font color="#00FFFF"><i><b>AI Manthan 2025</b></i></font></h1><br>
+      <font face="Impact" color="#00FFFF" size="7"><i>AI Manthan 2025</i></font><br><br>
       <img src="https://img.shields.io/badge/🥈_2nd_Place-IIIT_Delhi-0088FF?style=for-the-badge&labelColor=000000&color=00FFFF" /><br><br>
-      <h3><font color="#00FF66"><i>Secured <b><font color="#FFFF00">2nd Place</font></b> out of 300+ registrations in the AI Summer School at IIIT Delhi.</i></font></h3>
+      <font face="Courier New" color="#00FF66" size="5"><i>Secured <b><font color="#FFFF00">2nd Place</font></b> out of 300+ registrations in the AI Summer School at IIIT Delhi.</i></font>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%" valign="top" style="padding: 25px; border: 2px solid #0088FF; background-color: #050B14; border-radius: 12px;">
-      <h1><font color="#00FFFF"><i><b>Phantom Agents</b></i></font></h1><br>
+      <font face="Impact" color="#00FFFF" size="7"><i>Phantom Agents</i></font><br><br>
       <img src="https://img.shields.io/badge/🥉_3rd_Place-NSUT_Oblivion-0088FF?style=for-the-badge&labelColor=000000&color=00FFFF" /><br><br>
-      <h3><font color="#FFFF00"><i>Earned <b><font color="#FF00FF">3rd Place</font></b> among 650+ registrations at Oblivion Fest.</i></font></h3>
+      <font face="Courier New" color="#FFFF00" size="5"><i>Earned <b><font color="#FF00FF">3rd Place</font></b> among 650+ registrations at Oblivion Fest.</i></font>
     </td>
     <td align="center" width="50%" valign="top" style="padding: 25px; border: 2px solid #00FFFF; background-color: #050B14; border-radius: 12px;">
-      <h1><font color="#0088FF"><i><b>Industrial Ideathon</b></i></font></h1><br>
+      <font face="Impact" color="#0088FF" size="7"><i>Industrial Ideathon</i></font><br><br>
       <img src="https://img.shields.io/badge/🌟_Top_10-Delhi_Govt-00FFFF?style=for-the-badge&labelColor=000000&color=0088FF" /><br><br>
-      <h3><font color="#FF6600"><i>Finalist out of 650+ teams in a Delhi Government-led innovation competition.</i></font></h3>
+      <font face="Courier New" color="#FF6600" size="5"><i>Finalist out of 650+ teams in a Delhi Government-led innovation competition.</i></font>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%" valign="top" style="padding: 25px; border: 2px solid #00FFFF; background-color: #050B14; border-radius: 12px;">
-      <h1><font color="#0088FF"><i><b>LeetCode Knight</b></i></font></h1><br>
+      <font face="Impact" color="#0088FF" size="7"><i>LeetCode Knight</i></font><br><br>
       <img src="https://img.shields.io/badge/⚔️_Top_4.67%25-300%2B_Solved-00FFFF?style=for-the-badge&labelColor=000000&color=0088FF&logo=leetcode" /><br><br>
-      <h3><font color="#00FFFF"><i>Highly active in competitive programming, consistently refining algorithmic capabilities.</i></font></h3>
+      <font face="Courier New" color="#00FFFF" size="5"><i>Highly active in competitive programming, consistently refining algorithmic capabilities.</i></font>
     </td>
     <td align="center" width="50%" valign="top" style="padding: 25px; border: 2px solid #0088FF; background-color: #050B14; border-radius: 12px;">
-      <h1><font color="#00FFFF"><i><b>Speedathon IEEE 2025</b></i></font></h1><br>
+      <font face="Impact" color="#00FFFF" size="7"><i>Speedathon IEEE 2025</i></font><br><br>
       <img src="https://img.shields.io/badge/🥈_2nd_Place-Global-0088FF?style=for-the-badge&labelColor=000000&color=00FFFF" /><br><br>
-      <h3><font color="#FF00FF"><i>Secured <b><font color="#00FF66">2nd Place</font></b> globally in the IEEE 2025 Speedathon.</i></font></h3>
+      <font face="Courier New" color="#FF00FF" size="5"><i>Secured <b><font color="#00FF66">2nd Place</font></b> globally in the IEEE 2025 Speedathon.</i></font>
     </td>
   </tr>
 </table>
