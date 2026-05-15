@@ -5,16 +5,16 @@
   <a href="https://github.com/algo-aryan"><img src="https://img.shields.io/github/stars/algo-aryan?style=for-the-badge&label=STARS&color=0088FF&labelColor=000000" alt="Stars"></a>
 
   <br><br>
+
+  <!-- Permanent Name without typing animation -->
+  <h1 align="center" style="font-size: 60px; font-family: 'Fira Code', monospace; color: #00FFFF;">ARYAN BANSAL</h1>
   
-  <img src="https://media.giphy.com/media/3o7TKrEzvLbsVAud8I/giphy.gif" width="100%" alt="Cyberpunk Animated Banner" style="border-radius: 15px;" />
-
-  <br><br>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=50&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&height=80&lines=ARYAN+BANSAL" alt="Name" />
-
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=2000&color=0088FF&center=true&vCenter=true&width=800&height=40&lines=Software+Engineer;Full-Stack+Architect;Competitive+Programmer;AI+Innovator" alt="Roles" />
 
-  <br><br>
+  <!-- Moving cloud SVG below the name -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00FFFF,0088FF&height=100&section=header" width="100%" alt="Moving Cloud" />
+
+  <br>
 
   <a href="https://www.linkedin.com/in/aryanbansal1509"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FFFF" /></a>
   &nbsp;
@@ -22,14 +22,18 @@
   &nbsp;
   <a href="https://codeforces.com/profile/algo-aryan"><img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=00FFFF" /></a>
 
+  <br><br>
+  
+  <!-- High Quality Dark Cyberpunk City Animated Banner Below Socials -->
+  <img src="https://i.pinimg.com/originals/8e/47/2a/8e472a15993d09a0a4c7e6eb5c7dd800.gif" width="100%" alt="Cyberpunk Animated Banner" style="border-radius: 15px;" />
+
 </div>
 
-<br>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+<br><br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0D1117,001A33,002B4D&height=120&text=WHO%20AM%20I&fontColor=00FFFF&fontSize=50&animation=twinkling" alt="Who Am I" />
+  <!-- Cloud Moving SVG for Headings matching blue theme -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=001133,0088FF&height=120&text=WHO%20AM%20I&fontColor=00FFFF&fontSize=50&animation=twinkling" alt="Who Am I" />
 </div>
 
 <div align="center">
@@ -44,12 +48,10 @@
   </h3>
 </div>
 
-<br>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+<br><br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0D1117,001A33,002B4D&height=120&text=PROFESSIONAL%20EXPERIENCE&fontColor=00FFFF&fontSize=40&animation=twinkling" alt="Experience" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=001133,0088FF&height=120&text=PROFESSIONAL%20EXPERIENCE&fontColor=00FFFF&fontSize=40&animation=twinkling" alt="Experience" />
 </div>
 
 <table align="center" width="90%" style="border-collapse: separate; border-spacing: 0 15px;">
@@ -81,10 +83,10 @@
   </tr>
 </table>
 
-<br>
+<br><br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0D1117,001A33,002B4D&height=120&text=TECHNOLOGY%20ARSENAL&fontColor=00FFFF&fontSize=40&animation=twinkling" alt="Technology Arsenal" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=001133,0088FF&height=120&text=TECHNOLOGY%20ARSENAL&fontColor=00FFFF&fontSize=40&animation=twinkling" alt="Technology Arsenal" />
 </div>
 
 <div align="center">
@@ -121,10 +123,10 @@
   </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+<br><br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0D1117,001A33,002B4D&height=120&text=OPEN%20SOURCE%20PROJECTS&fontColor=00FFFF&fontSize=40&animation=twinkling" alt="Projects" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=001133,0088FF&height=120&text=OPEN%20SOURCE%20PROJECTS&fontColor=00FFFF&fontSize=40&animation=twinkling" alt="Projects" />
 </div>
 
 <table align="center" width="100%" style="border-collapse: separate; border-spacing: 10px;">
@@ -158,10 +160,10 @@
   </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+<br><br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0D1117,001A33,002B4D&height=120&text=HONORS%20%26%20ACHIEVEMENTS&fontColor=00FFFF&fontSize=40&animation=twinkling" alt="Achievements" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=001133,0088FF&height=120&text=HONORS%20%26%20ACHIEVEMENTS&fontColor=00FFFF&fontSize=40&animation=twinkling" alt="Achievements" />
 </div>
 
 <table align="center" width="100%" style="border-collapse: separate; border-spacing: 10px;">
@@ -203,10 +205,10 @@
   </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+<br><br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0D1117,001A33,002B4D&height=120&text=ACTIVITY%20%26%20CONTRIBUTIONS&fontColor=00FFFF&fontSize=40&animation=twinkling" alt="Activity" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=001133,0088FF&height=120&text=ACTIVITY%20%26%20CONTRIBUTIONS&fontColor=00FFFF&fontSize=40&animation=twinkling" alt="Activity" />
 </div>
 
 <br>
@@ -222,8 +224,6 @@
 </div>
 
 <br>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Talk%20is%20cheap.%20Show%20me%20the%20code.&author=Linus%20Torvalds" alt="Dev Quote" />
