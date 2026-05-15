@@ -6,8 +6,8 @@
 
   <br><br>
 
-  <!-- Big Animated Name -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=75&pause=2000&color=00FFFF&center=true&vCenter=true&width=800&height=120&lines=ARYAN+BANSAL" alt="Name" />
+  <!-- Big Static Name -->
+  <img src="assets/name.svg" alt="Name" />
   
   <br>
   
@@ -23,8 +23,8 @@
 
   <br><br>
   
-  <!-- Cyberpunk Kirokaze Banner -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%" alt="Cartoonish Tech City Banner" style="border-radius: 15px;" />
+  <!-- Custom Tech Video Banner -->
+  <video src="assets/github.mp4" autoplay loop muted playsinline width="100%" style="border-radius: 15px;"></video>
 
 </div>
 
