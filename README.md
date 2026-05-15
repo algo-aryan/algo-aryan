@@ -1,169 +1,138 @@
-<!-- Profile Views -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=algo-aryan&label=Profile%20Views&color=0ea5e9&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=algo-aryan&label=sys.views&color=00FF00&style=for-the-badge" alt="Profile Views" />
 </div>
 
-<!-- Header -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0ea5e9,8b5cf6,ec4899&height=250&section=header&text=Aryan%20Bansal&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20AI%20Developer%20%E2%80%A2%20Innovator&descAlignY=60&descSize=22" alt="Header Banner" />
-</div>
+<br>
 
-<!-- Typing Animation -->
 <div align="center">
   <a href="https://github.com/algo-aryan">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=20&pause=1500&color=0ea5e9&center=true&vCenter=true&width=600&lines=Architecting+Scalable+Systems;Building+Next-Gen+AI+Solutions;Competitive+Programmer+(Knight+@+LeetCode);Winner+of+Multiple+Hackathons" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&background=0D1117&center=true&vCenter=true&width=800&height=60&lines=root@aryan:~%23+executing+profile.sh...;>%20Full-Stack+Developer;>%20AI+Enthusiast;>%20Competitive+Coder" alt="Terminal Typing Animation" />
   </a>
 </div>
 
 <div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryanbansal1509) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryan1509bansal@gmail.com) [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/algo-aryan)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&scale=1.2)](https://www.linkedin.com/in/aryanbansal1509) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white&scale=1.2)](mailto:aryan1509bansal@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black&scale=1.2)](https://leetcode.com/algo-aryan) [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=Codeforces&logoColor=white&scale=1.2)](https://codeforces.com/profile/algo-aryan)
-
-</div>
-
-<img src="./assets/neon-divider-animated.svg" width="100%">
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0ea5e9&height=40&text=THE%20ARCHITECT%20BEHIND%20THE%20CODE&fontSize=20&fontColor=ffffff&fontAlignY=60" width="100%" alt="About Me"/>
 </div>
 
 <br>
 
-<table align="center" width="100%" style="border: none;">
+## 👤 `whoami`
+
+> I am a **B.Tech Computer Science undergraduate at Delhi Technological University (DTU)** with a 9.756 CGPA. My engineering focus lies deeply in architecting highly scalable full-stack applications, integrating intelligent AI-driven systems, and ensuring robust application resiliency. I prioritize data privacy and clean software maintenance, whether I'm building advanced Retrieval-Augmented Generation (RAG) pipelines or deploying automated robotic control frameworks.
+
+<br>
+
+## 💼 `cat experience.log`
+
+### Software Engineer Intern @ Inferno DTU *(Aug 2024 - Oct 2024)*
+- **System Development:** Improved a real-time monitoring GUI and remote control system for a multi-camera rover, supporting 4+ live camera feeds and reducing manual intervention by 40%, thereby drastically improving operational efficiency.
+- **Automation & Deployment:** Built and deployed automation packages using Python and ROS. Designed a scalable robotic control framework that minimized system latency by 25%, collaborating closely with senior engineers.
+
+### Data Structures & Algorithms Mentor @ IEEE DTU *(Oct 2024)*
+- **Guidance & Leadership:** Mentored 100+ students during TechWeek in Data Structures and Algorithms.
+- Provided comprehensive guidance on problem-solving strategies, algorithmic thinking, and fundamental computer science concepts.
+
+<br>
+
+## 🛠️ `ls -la /usr/local/bin/skills`
+
+<table style="width: 100%; border-collapse: collapse; text-align: left;">
   <tr>
-    <td width="30%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjU5ZGRlYWNjYzQwZmFjMTE0MmRjMjRlNDYyZjVmM2Q1NDVjZjA5YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Animated Brain/AI GIF" />
+    <td width="25%"><b>Languages</b></td>
+    <td width="75%">
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
     </td>
-    <td width="70%" valign="middle" style="font-size: 16px; line-height: 1.6;">
-      <b>Hi there! I'm Aryan</b>, a B.Tech Computer Science undergraduate at <b>Delhi Technological University (DTU)</b> with a passion for building products that solve real problems.
-      <br><br>
-      My engineering focus involves architecting highly scalable <i>full-stack applications</i> and developing <b>intelligent AI-driven systems</b>. Whether it's building advanced Retrieval-Augmented Generation (RAG) pipelines or deploying automated robotic control systems, I thrive in challenging technical environments.
-      <br><br>
-      Beyond my engineering roles (like my tenure as a Software Engineer Intern at Inferno DTU), I am a massive advocate for competitive programming. I consistently sharpen my algorithmic thinking and have reached <b>Knight level on LeetCode</b>.
+  </tr>
+  <tr>
+    <td><b>Web & APIs</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data & AI</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>DevOps & Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
     </td>
   </tr>
 </table>
 
-<img src="./assets/neon-divider-animated.svg" width="100%">
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=8b5cf6&height=40&text=TECHNOLOGY%20ARSENAL&fontSize=20&fontColor=ffffff&fontAlignY=60" width="100%" alt="Tech Stack"/>
-</div>
 <br>
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,js,go,react,nodejs,express,html,css,mongodb,firebase,mysql,flask,scikitlearn,git,docker,jenkins,linux&theme=dark&perline=9" alt="Tech Arsenal" />
-  </a>
-</div>
+## 🚀 `./deploy --projects`
 
-<img src="./assets/neon-divider-animated.svg" width="100%">
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ec4899&height=40&text=INNOVATION%20SHOWCASE&fontSize=20&fontColor=ffffff&fontAlignY=60" width="100%" alt="Projects"/>
-</div>
+1. **[Bharat-mat / Citizen-Portal](https://github.com/algo-aryan/Bharat-mat)**  
+   A comprehensive civic engagement and electoral integrity platform designed to safeguard democratic processes using cutting-edge AI-powered fact-checking and deepfake detection.
+2. **[FinSight](https://github.com/algo-aryan/FinSight)**  
+   A predictive financial forecasting ecosystem that transforms raw time-series banking data into proactive business intelligence utilizing Conformal Prediction and LLMs.
+3. **[Vajra Sentinel](https://github.com/algo-aryan/Vajra)**  
+   A high-security ecosystem enforcing municipal data sovereignty. Features a strict Defense-in-Depth philosophy to protect registries against advanced adversarial threats.
+4. **[Campus-Assistant-BOT](https://github.com/algo-aryan/Campus-Assistant-BOT)**  
+   An advanced, multilingual, omnichannel RAG chatbot streamlining campus communication. Implemented MMR for diverse retrieval, reducing redundant responses by 45% and improving accuracy by 30%.
+5. **[ResuMate](https://github.com/algo-aryan/Resumate)**  
+   An AI-powered system automating the job application process while strictly ensuring data privacy. Parsed 500+ resumes using NLP and integrated an AI mock interview module.
+6. **[Bharat-Score](https://github.com/algo-aryan/Bharat-Score)**  
+   A financial inclusion solution assessing creditworthiness for unbanked individuals using a weighted risk-assessment algorithm across 15+ alternative data points, improving accuracy by 22%.
 
 <br>
 
-<table align="center" width="100%" style="border: none;">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3db_fe0f/512.gif" width="60" alt="Bharat-mat" />
-      <br>
-      <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=3000&color=0ea5e9&center=true&vCenter=true&lines=Bharat-Mat" alt="Bharat-Mat Title" />
-      <br>
-      <b>Civic Engagement & Electoral Integrity</b><br>
-      <i>Comprehensive platform safeguarding India's democratic processes using AI-powered fact-checking & deepfake detection.</i>
-      <br><br>
-      <img src="https://skillicons.dev/icons?i=py,react,nodejs,mongodb&theme=dark" height="25" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4b8/512.gif" width="60" alt="FinSight" />
-      <br>
-      <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=3000&color=0ea5e9&center=true&vCenter=true&lines=FinSight" alt="FinSight Title" />
-      <br>
-      <b>Predictive Financial Forecasting</b><br>
-      <i>Transforming raw time-series banking data into proactive business intelligence using Conformal Prediction & LLMs.</i>
-      <br><br>
-      <img src="https://skillicons.dev/icons?i=py,scikitlearn,flask,react&theme=dark" height="25" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <br><br>
-      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e1_fe0f/512.gif" width="60" alt="Vajra" />
-      <br>
-      <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=3000&color=0ea5e9&center=true&vCenter=true&lines=Vajra+Sentinel" alt="Vajra Title" />
-      <br>
-      <b>Municipal Data Sovereignty & Defense</b><br>
-      <i>High-security ecosystem designed to protect municipal registries against advanced adversarial threats.</i>
-      <br><br>
-      <img src="https://skillicons.dev/icons?i=cpp,go,docker,linux&theme=dark" height="25" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <br><br>
-      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" width="60" alt="Campus-Assistant" />
-      <br>
-      <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=3000&color=0ea5e9&center=true&vCenter=true&lines=Campus-Assistant-BOT" alt="Campus Bot Title" />
-      <br>
-      <b>Multilingual Omnichannel RAG Chatbot</b><br>
-      <i>Advanced automated assistant streamlining campus communication & resolving queries across multiple platforms.</i>
-      <br><br>
-      <img src="https://skillicons.dev/icons?i=py,nodejs,mongodb&theme=dark" height="25" />
-    </td>
-  </tr>
-</table>
+## 🏆 `grep "achievements" /var/log/syslog`
 
-<img src="./assets/neon-divider-animated.svg" width="100%">
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=8b5cf6&height=40&text=HONORS%20AND%20MILESTONES&fontSize=20&fontColor=ffffff&fontAlignY=60" width="100%" alt="Honors"/>
-</div>
+- 🥇 **AI Manthan 2025 (IIIT Delhi)**: Secured **2nd Place (Runner-Up)** out of 300+ registrations in the AI Summer School.
+- 🥈 **Phantom Agents Hackathon (NSUT)**: Earned **2nd Runner-Up** among 650+ registrations at Oblivion Fest.
+- 🥈 **Speedathon IEEE 2025**: Secured **2nd Place (Runner-Up)**.
+- 🌟 **Hack4Delhi**: Selected among **Top 30** out of 1500+ teams in a Municipal Corporation of Delhi innovation challenge.
+- 🌟 **Industrial Ideathon**: Finalist — **Top 10** out of 650+ teams in a Delhi Government-led innovation competition.
+- 🌟 **Bank of India Hackathon**: Finalist among 650+ teams in a national-level banking innovation challenge.
+- 🎓 **Certifications**: DSA in C++ (Coding Blocks), PCEP Certified Entry-Level Python Programmer, MTA HTML & CSS, MTA Python.
+
 <br>
 
-<table align="center" width="100%" style="border: none; background-color: #0D1117;">
-  <tr>
-    <td align="center" width="33%" valign="top">
-      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" width="75" alt="Trophy" /><br>
-      <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=16&duration=3000&pause=1000&color=0ea5e9&center=true&vCenter=true&width=300&height=40&lines=Hackathon+Champion" alt="Typing SVG" /><br>
-      <img src="https://img.shields.io/badge/AI_Manthan-RUNNER_UP-0ea5e9?style=for-the-badge" /><br><br>
-      <img src="https://img.shields.io/badge/Phantom_Agents-2ND_RUNNER_UP-8b5cf6?style=for-the-badge" /><br><br>
-      <img src="https://img.shields.io/badge/Bank_of_India-FINALIST-ec4899?style=for-the-badge" />
-    </td>
-    <td align="center" width="33%" valign="top">
-      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" width="75" alt="Scholarship" /><br>
-      <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=16&duration=3000&pause=1000&color=8b5cf6&center=true&vCenter=true&width=300&height=40&lines=Academic+Excellence" alt="Typing SVG" /><br>
-      <img src="https://img.shields.io/badge/DTU_B.Tech-9.75_CGPA-0ea5e9?style=for-the-badge" /><br><br>
-      <img src="https://img.shields.io/badge/DSA_C++-Coding_Blocks-8b5cf6?style=for-the-badge" /><br><br>
-      <img src="https://img.shields.io/badge/PCEP_Python-Certified-ec4899?style=for-the-badge" />
-    </td>
-    <td align="center" width="33%" valign="top">
-      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="75" alt="Code" /><br>
-      <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=16&duration=3000&pause=1000&color=ec4899&center=true&vCenter=true&width=300&height=40&lines=Elite+Coder" alt="Typing SVG" /><br>
-      <img src="https://img.shields.io/badge/LeetCode-KNIGHT_(Top_4.6%25)-0ea5e9?style=for-the-badge&logo=leetcode&logoColor=white" /><br><br>
-      <img src="https://img.shields.io/badge/LeetCode-300+_Solved-8b5cf6?style=for-the-badge&logo=leetcode&logoColor=white" /><br><br>
-      <img src="https://img.shields.io/badge/Codeforces-PUPIL-ec4899?style=for-the-badge&logo=codeforces&logoColor=white" />
-    </td>
-  </tr>
-</table>
+## ⚔️ `./run_algorithm.sh`
 
-<img src="./assets/neon-divider-animated.svg" width="100%">
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0ea5e9&height=40&text=DEVELOPER%20METRICS&fontSize=20&fontColor=ffffff&fontAlignY=60" width="100%" alt="Metrics"/>
-</div>
+I am highly active in competitive programming, consistently refining my problem-solving capabilities:
+<br>
+<img src="https://img.shields.io/badge/LeetCode-Knight_(Top_4.67%25)-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<img src="https://img.shields.io/badge/LeetCode-300%2B_Problems_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<img src="https://img.shields.io/badge/Codeforces-Pupil_(Max_1221)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+
 <br>
 
+## 📊 `htop --user algo-aryan`
+
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/algo-aryan?theme=dark&font=Space%20Mono&ext=activity" alt="LeetCode" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=algo-aryan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0ea5e9&icon_color=8b5cf6&text_color=ffffff" alt="Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=algo-aryan&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=0ea5e9&text_color=ffffff" alt="Languages" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=algo-aryan&bg_color=0D1117&color=0ea5e9&line=8b5cf6&point=ffffff&area=true&hide_border=true&custom_title=Commit%20Trajectory" width="90%" alt="Activity" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=algo-aryan&theme=radical&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="GitHub Streak" />
 </div>
 
 <br>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0ea5e9,8b5cf6,ec4899&height=100&section=footer" width="100%" alt="Footer" />
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=algo-aryan&theme=radical" alt="Summary Card" />
+</div>
+
+<br>
+<div align="center">
+  <i>"Writing clean code and building scalable systems."</i>
+</div>
