@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="150" viewBox="0 0 800 150">
+  <defs>
+    <linearGradient id="cloudGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#001133" />
+      <stop offset="100%" stop-color="#004488" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <style>
+    @keyframes expandContract {
+      0% { transform: scale(0.95); }
+      50% { transform: scale(1.05); }
+      100% { transform: scale(0.95); }
+    }
+    .cloud-banner {
+      animation: expandContract 4s ease-in-out infinite;
+      transform-origin: center center;
+    }
+    .heading-text {
+      font-family: 'Fira Code', monospace, sans-serif;
+      font-weight: 800;
+      font-size: 36px;
+      fill: #00FFFF;
+      letter-spacing: 2px;
+    }
+  </style>
+
+  <g class="cloud-banner">
+    <!-- Cloud shapes -->
+    <path d="M 200 100 
+             a 30 30 0 0 1 -10 -55 
+             a 40 40 0 0 1 70 -20 
+             a 50 50 0 0 1 90 -30 
+             a 45 45 0 0 1 80 10 
+             a 50 50 0 0 1 80 0 
+             a 40 40 0 0 1 70 20 
+             a 35 35 0 0 1 10 65 
+             Z" 
+          fill="url(#cloudGrad)" 
+          filter="url(#glow)"/>
+    
+    <!-- Base rectangle to smooth bottom -->
+    <rect x="200" y="60" width="390" height="40" rx="20" fill="url(#cloudGrad)" />
+    
+    <!-- Text centered in the cloud -->
+    <text x="400" y="85" text-anchor="middle" alignment-baseline="middle" class="heading-text" filter="url(#glow)">TECHNOLOGY ARSENAL</text>
+  </g>
+</svg>

@@ -6,12 +6,10 @@
 
   <br><br>
 
-  <!-- Permanent Name without typing animation -->
   <h1 align="center" style="font-size: 60px; font-family: 'Fira Code', monospace; color: #00FFFF;">ARYAN BANSAL</h1>
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=2000&color=0088FF&center=true&vCenter=true&width=800&height=40&lines=Software+Engineer;Full-Stack+Architect;Competitive+Programmer;AI+Innovator" alt="Roles" />
 
-  <!-- Moving cloud SVG below the name -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00FFFF,0088FF&height=100&section=header" width="100%" alt="Moving Cloud" />
 
   <br>
@@ -24,7 +22,6 @@
 
   <br><br>
   
-  <!-- High Quality Dark Cyberpunk City Animated Banner Below Socials -->
   <img src="https://i.pinimg.com/originals/8e/47/2a/8e472a15993d09a0a4c7e6eb5c7dd800.gif" width="100%" alt="Cyberpunk Animated Banner" style="border-radius: 15px;" />
 
 </div>
@@ -32,8 +29,7 @@
 <br><br>
 
 <div align="center">
-  <!-- Cloud Moving SVG for Headings matching blue theme -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=001133,0088FF&height=120&text=WHO%20AM%20I&fontColor=00FFFF&fontSize=50&animation=twinkling" alt="Who Am I" />
+  <img src="./assets/whoami.svg" width="800" alt="Who Am I" />
 </div>
 
 <div align="center">
@@ -51,7 +47,7 @@
 <br><br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=001133,0088FF&height=120&text=PROFESSIONAL%20EXPERIENCE&fontColor=00FFFF&fontSize=40&animation=twinkling" alt="Experience" />
+  <img src="./assets/experience.svg" width="800" alt="Professional Experience" />
 </div>
 
 <table align="center" width="90%" style="border-collapse: separate; border-spacing: 0 15px;">
@@ -86,7 +82,7 @@
 <br><br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=001133,0088FF&height=120&text=TECHNOLOGY%20ARSENAL&fontColor=00FFFF&fontSize=40&animation=twinkling" alt="Technology Arsenal" />
+  <img src="./assets/skills.svg" width="800" alt="Technology Arsenal" />
 </div>
 
 <div align="center">
@@ -126,7 +122,7 @@
 <br><br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=001133,0088FF&height=120&text=OPEN%20SOURCE%20PROJECTS&fontColor=00FFFF&fontSize=40&animation=twinkling" alt="Projects" />
+  <img src="./assets/projects.svg" width="800" alt="Projects" />
 </div>
 
 <table align="center" width="100%" style="border-collapse: separate; border-spacing: 10px;">
@@ -163,7 +159,7 @@
 <br><br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=001133,0088FF&height=120&text=HONORS%20%26%20ACHIEVEMENTS&fontColor=00FFFF&fontSize=40&animation=twinkling" alt="Achievements" />
+  <img src="./assets/achievements.svg" width="800" alt="Achievements" />
 </div>
 
 <table align="center" width="100%" style="border-collapse: separate; border-spacing: 10px;">
@@ -208,7 +204,7 @@
 <br><br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=001133,0088FF&height=120&text=ACTIVITY%20%26%20CONTRIBUTIONS&fontColor=00FFFF&fontSize=40&animation=twinkling" alt="Activity" />
+  <img src="./assets/activity.svg" width="800" alt="Activity" />
 </div>
 
 <br>
