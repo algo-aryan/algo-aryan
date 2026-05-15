@@ -29,7 +29,7 @@
 <br><br>
 
 <div align="center">
-  <img src="./assets/whoami.svg" width="800" alt="Who Am I" />
+  <img src="./assets/whoami.svg" width="100%" alt="Who Am I" />
 </div>
 
 <div align="center">
@@ -47,7 +47,7 @@
 <br><br>
 
 <div align="center">
-  <img src="./assets/experience.svg" width="800" alt="Professional Experience" />
+  <img src="./assets/experience.svg" width="100%" alt="Professional Experience" />
 </div>
 
 <table align="center" width="90%" style="border-collapse: separate; border-spacing: 0 15px;">
@@ -82,7 +82,7 @@
 <br><br>
 
 <div align="center">
-  <img src="./assets/skills.svg" width="800" alt="Technology Arsenal" />
+  <img src="./assets/skills.svg" width="100%" alt="Technology Arsenal" />
 </div>
 
 <div align="center">
@@ -122,7 +122,7 @@
 <br><br>
 
 <div align="center">
-  <img src="./assets/projects.svg" width="800" alt="Projects" />
+  <img src="./assets/projects.svg" width="100%" alt="Projects" />
 </div>
 
 <table align="center" width="100%" style="border-collapse: separate; border-spacing: 10px;">
@@ -159,7 +159,7 @@
 <br><br>
 
 <div align="center">
-  <img src="./assets/achievements.svg" width="800" alt="Achievements" />
+  <img src="./assets/achievements.svg" width="100%" alt="Achievements" />
 </div>
 
 <table align="center" width="100%" style="border-collapse: separate; border-spacing: 10px;">
@@ -204,7 +204,7 @@
 <br><br>
 
 <div align="center">
-  <img src="./assets/activity.svg" width="800" alt="Activity" />
+  <img src="./assets/activity.svg" width="100%" alt="Activity" />
 </div>
 
 <br>
