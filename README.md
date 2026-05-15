@@ -24,7 +24,7 @@
   <br><br>
   
   <!-- Custom Tech Video Banner -->
-  <video src="assets/github.mp4" autoplay loop muted playsinline width="100%" style="border-radius: 15px;"></video>
+  <video src="https://raw.githubusercontent.com/algo-aryan/algo-aryan/main/assets/github.mp4" autoplay loop muted playsinline width="100%" style="border-radius: 15px;"></video>
 
 </div>
 
