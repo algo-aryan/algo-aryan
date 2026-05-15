@@ -6,7 +6,10 @@
 
   <br><br>
 
-  <h1 align="center" style="font-size: 60px; font-family: 'Fira Code', monospace; color: #00FFFF;">ARYAN BANSAL</h1>
+  <!-- Big Animated Name -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=60&pause=2000&color=00FFFF&center=true&vCenter=true&width=800&height=100&lines=ARYAN+BANSAL" alt="Name" />
+  
+  <br>
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=2000&color=0088FF&center=true&vCenter=true&width=800&height=40&lines=Software+Engineer;Full-Stack+Architect;Competitive+Programmer;AI+Innovator" alt="Roles" />
 
@@ -27,13 +30,16 @@
 <br><br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=001133,0088FF&height=100&text=WHO%20AM%20I&fontColor=00FFFF&fontSize=40&animation=twinkling" width="100%" alt="Who Am I" />
+  <!-- Typing Effect Heading -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&pause=1000&color=0088FF&center=true&vCenter=true&width=800&height=70&lines=WHO+AM+I" alt="Who Am I" />
+  <br>
+  <!-- Red Animated Bar Underline -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" />
 </div>
 
 <br>
 
 <div align="center">
-  <!-- Added glowing brain animation next to the text -->
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" align="right" style="border-radius: 15px;">
   
   <h2>
@@ -48,11 +54,14 @@
 </div>
 
 <br>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<!-- Blue Theme Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 <br><br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=001133,0088FF&height=100&text=PROFESSIONAL%20EXPERIENCE&fontColor=00FFFF&fontSize=40&animation=twinkling" width="100%" alt="Professional Experience" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&pause=1000&color=0088FF&center=true&vCenter=true&width=800&height=70&lines=PROFESSIONAL+EXPERIENCE" alt="Experience" />
+  <br>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" />
 </div>
 
 <br>
@@ -87,11 +96,14 @@
 </table>
 
 <br>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<!-- Blue Theme Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 <br><br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=001133,0088FF&height=100&text=TECHNOLOGY%20ARSENAL&fontColor=00FFFF&fontSize=40&animation=twinkling" width="100%" alt="Technology Arsenal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&pause=1000&color=0088FF&center=true&vCenter=true&width=800&height=70&lines=TECHNOLOGY+ARSENAL" alt="Technology Arsenal" />
+  <br>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" />
 </div>
 
 <br>
@@ -131,11 +143,14 @@
 </table>
 
 <br>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<!-- Blue Theme Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 <br><br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=001133,0088FF&height=100&text=OPEN%20SOURCE%20PROJECTS&fontColor=00FFFF&fontSize=40&animation=twinkling" width="100%" alt="Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&pause=1000&color=0088FF&center=true&vCenter=true&width=800&height=70&lines=OPEN+SOURCE+PROJECTS" alt="Projects" />
+  <br>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" />
 </div>
 
 <br>
@@ -172,11 +187,14 @@
 </table>
 
 <br>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<!-- Blue Theme Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 <br><br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=001133,0088FF&height=100&text=HONORS%20%26%20ACHIEVEMENTS&fontColor=00FFFF&fontSize=40&animation=twinkling" width="100%" alt="Achievements" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&pause=1000&color=0088FF&center=true&vCenter=true&width=800&height=70&lines=HONORS+%26+ACHIEVEMENTS" alt="Achievements" />
+  <br>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" />
 </div>
 
 <br>
@@ -221,11 +239,14 @@
 </table>
 
 <br>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<!-- Blue Theme Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 <br><br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=001133,0088FF&height=100&text=ACTIVITY%20%26%20CONTRIBUTIONS&fontColor=00FFFF&fontSize=40&animation=twinkling" width="100%" alt="Activity" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&pause=1000&color=0088FF&center=true&vCenter=true&width=800&height=70&lines=ACTIVITY+%26+CONTRIBUTIONS" alt="Activity" />
+  <br>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" />
 </div>
 
 <br>
