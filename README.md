@@ -23,8 +23,7 @@
 
   <br><br>
   
-  <!-- Custom Tech Video Banner -->
-  <img src="assets/dark_tech_city.gif" width="100%" alt="Dark Tech City Banner" style="border-radius: 15px;" />
+
 
 </div>
 
