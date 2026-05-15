@@ -11,7 +11,7 @@
   
   <br>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=500&duration=1200&color=0088FF&center=true&vCenter=true&width=800&height=50&lines=Software+Engineer;Full-Stack+Architect;Competitive+Programmer;AI+Innovator" alt="Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=500&duration=3000&color=0088FF&center=true&vCenter=true&width=800&height=50&lines=Software+Engineer;Full-Stack+Architect;Competitive+Programmer;AI+Innovator" alt="Roles" />
 
   <br>
 
@@ -24,9 +24,7 @@
   <br><br>
   
   <!-- Custom Tech Video Banner -->
-  <video src="https://github.com/algo-aryan/algo-aryan/raw/main/assets/github.mp4" autoplay loop muted playsinline width="100%"></video>
-  
-  https://github.com/algo-aryan/algo-aryan/raw/main/assets/github.mp4
+  <img src="assets/github.gif" width="100%" alt="Tech Video Banner" style="border-radius: 15px;" />
 
 </div>
 
@@ -37,7 +35,7 @@
 
 <div align="center">
   <!-- Typing Effect Heading -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=55&pause=500&duration=1200&color=0088FF&center=true&vCenter=true&width=800&height=80&lines=WHO+AM+I" alt="Who Am I" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=55&pause=500&duration=3000&color=0088FF&center=true&vCenter=true&width=800&height=80&lines=WHO+AM+I" alt="Who Am I" />
   <br>
   <!-- Red Animated Bar Underline -->
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" />
@@ -65,7 +63,7 @@
 <br><br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=55&pause=500&duration=1200&color=0088FF&center=true&vCenter=true&width=800&height=80&lines=PROFESSIONAL+EXPERIENCE" alt="Experience" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=55&pause=500&duration=3000&color=0088FF&center=true&vCenter=true&width=800&height=80&lines=PROFESSIONAL+EXPERIENCE" alt="Experience" />
   <br>
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" />
 </div>
@@ -101,7 +99,7 @@
 <br><br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=55&pause=500&duration=1200&color=0088FF&center=true&vCenter=true&width=800&height=80&lines=TECHNOLOGY+ARSENAL" alt="Technology Arsenal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=55&pause=500&duration=3000&color=0088FF&center=true&vCenter=true&width=800&height=80&lines=TECHNOLOGY+ARSENAL" alt="Technology Arsenal" />
   <br>
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" />
 </div>
@@ -148,7 +146,7 @@
 <br><br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=55&pause=500&duration=1200&color=0088FF&center=true&vCenter=true&width=800&height=80&lines=OPEN+SOURCE+PROJECTS" alt="Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=55&pause=500&duration=3000&color=0088FF&center=true&vCenter=true&width=800&height=80&lines=OPEN+SOURCE+PROJECTS" alt="Projects" />
   <br>
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" />
 </div>
@@ -196,7 +194,7 @@
 <br><br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=55&pause=500&duration=1200&color=0088FF&center=true&vCenter=true&width=800&height=80&lines=HONORS+%26+ACHIEVEMENTS" alt="Achievements" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=55&pause=500&duration=3000&color=0088FF&center=true&vCenter=true&width=800&height=80&lines=HONORS+%26+ACHIEVEMENTS" alt="Achievements" />
   <br>
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" />
 </div>
@@ -248,7 +246,7 @@
 <br><br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=55&pause=500&duration=1200&color=0088FF&center=true&vCenter=true&width=800&height=80&lines=ACTIVITY+%26+CONTRIBUTIONS" alt="Activity" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=55&pause=500&duration=3000&color=0088FF&center=true&vCenter=true&width=800&height=80&lines=ACTIVITY+%26+CONTRIBUTIONS" alt="Activity" />
   <br>
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" />
 </div>
