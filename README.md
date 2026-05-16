@@ -28,7 +28,55 @@
 </div>
 
 <br>
-<!-- Blue Theme Divider (Above Who Am I) -->
+<!-- Blue Theme Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<br><br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=55&pause=500&duration=3000&color=0088FF&center=true&vCenter=true&width=800&height=80&lines=OPEN+SOURCE+PROJECTS" alt="Projects" />
+  <br>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" />
+</div>
+
+<br>
+
+<table align="center" width="100%" style="border-collapse: separate; border-spacing: 15px;">
+  <tr>
+    <td width="50%" align="center" valign="top" style="padding: 30px; border: 2px solid #0088FF; background-color: #050B14; border-radius: 12px;">
+      <img src="https://img.icons8.com/fluency/96/elections.png" width="80" align="center"/><br>
+      <h1><font face="Arial Black" color="#00FFFF"><i>Bharat-Mat</i></font></h1><br>
+      <img src="https://img.shields.io/badge/AI_Powered-Fact_Checking-00FFFF?style=for-the-badge&labelColor=000000&color=0088FF" /><br><br>
+      <h3><font face="Georgia" color="#FF00FF"><i>A comprehensive civic engagement and electoral integrity platform designed to safeguard democratic processes using AI-powered fact-checking and deepfake detection.</i></font></h3><br>
+      <img src="https://skillicons.dev/icons?i=py,react,nodejs" height="40" />
+    </td>
+    <td width="50%" align="center" valign="top" style="padding: 30px; border: 2px solid #00FFFF; background-color: #050B14; border-radius: 12px;">
+      <img src="https://img.icons8.com/fluency/96/combo-chart.png" width="80" align="center"/><br>
+      <h1><font face="Arial Black" color="#0088FF"><i>FinSight</i></font></h1><br>
+      <img src="https://img.shields.io/badge/Conformal_Prediction-LLMs-0088FF?style=for-the-badge&labelColor=000000&color=00FFFF" /><br><br>
+      <h3><font face="Georgia" color="#00FF66"><i>A predictive financial forecasting ecosystem that transforms raw time-series banking data into proactive business intelligence utilizing Conformal Prediction and LLMs.</i></font></h3><br>
+      <img src="https://skillicons.dev/icons?i=py,scikitlearn,flask" height="40" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top" style="padding: 30px; border: 2px solid #00FFFF; background-color: #050B14; border-radius: 12px;">
+      <img src="https://img.icons8.com/fluency/96/security-checked.png" width="80" align="center"/><br>
+      <h1><font face="Arial Black" color="#0088FF"><i>Vajra Sentinel</i></font></h1><br>
+      <img src="https://img.shields.io/badge/Cybersecurity-Defense_in_Depth-0088FF?style=for-the-badge&labelColor=000000&color=00FFFF" /><br><br>
+      <h3><font face="Georgia" color="#FFFF00"><i>A high-security ecosystem enforcing municipal data sovereignty. Features a strict Defense-in-Depth philosophy to protect registries against advanced adversarial threats.</i></font></h3><br>
+      <img src="https://skillicons.dev/icons?i=go,cpp,linux" height="40" />
+    </td>
+    <td width="50%" align="center" valign="top" style="padding: 30px; border: 2px solid #0088FF; background-color: #050B14; border-radius: 12px;">
+      <img src="https://img.icons8.com/fluency/96/bot.png" width="80" align="center"/><br>
+      <h1><font face="Arial Black" color="#00FFFF"><i>Campus Assistant BOT</i></font></h1><br>
+      <img src="https://img.shields.io/badge/RAG_Architecture-NLP_Omnichannel-00FFFF?style=for-the-badge&labelColor=000000&color=0088FF" /><br><br>
+      <h3><font face="Georgia" color="#FF6600"><i>An advanced, multilingual, omnichannel RAG chatbot. Implemented MMR for diverse retrieval, reducing redundant responses by 45% and improving accuracy by 30%.</i></font></h3><br>
+      <img src="https://skillicons.dev/icons?i=py,mongodb,aws" height="40" />
+    </td>
+  </tr>
+</table>
+
+<br>
+<!-- Blue Theme Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 <br><br>
 
@@ -135,54 +183,6 @@
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
-<br>
-<!-- Blue Theme Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-<br><br>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=55&pause=500&duration=3000&color=0088FF&center=true&vCenter=true&width=800&height=80&lines=OPEN+SOURCE+PROJECTS" alt="Projects" />
-  <br>
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" />
-</div>
-
-<br>
-
-<table align="center" width="100%" style="border-collapse: separate; border-spacing: 15px;">
-  <tr>
-    <td width="50%" align="center" valign="top" style="padding: 30px; border: 2px solid #0088FF; background-color: #050B14; border-radius: 12px;">
-      <img src="https://img.icons8.com/fluency/96/elections.png" width="80" align="center"/><br>
-      <h1><font face="Arial Black" color="#00FFFF"><i>Bharat-Mat</i></font></h1><br>
-      <img src="https://img.shields.io/badge/AI_Powered-Fact_Checking-00FFFF?style=for-the-badge&labelColor=000000&color=0088FF" /><br><br>
-      <h3><font face="Georgia" color="#FF00FF"><i>A comprehensive civic engagement and electoral integrity platform designed to safeguard democratic processes using AI-powered fact-checking and deepfake detection.</i></font></h3><br>
-      <img src="https://skillicons.dev/icons?i=py,react,nodejs" height="40" />
-    </td>
-    <td width="50%" align="center" valign="top" style="padding: 30px; border: 2px solid #00FFFF; background-color: #050B14; border-radius: 12px;">
-      <img src="https://img.icons8.com/fluency/96/combo-chart.png" width="80" align="center"/><br>
-      <h1><font face="Arial Black" color="#0088FF"><i>FinSight</i></font></h1><br>
-      <img src="https://img.shields.io/badge/Conformal_Prediction-LLMs-0088FF?style=for-the-badge&labelColor=000000&color=00FFFF" /><br><br>
-      <h3><font face="Georgia" color="#00FF66"><i>A predictive financial forecasting ecosystem that transforms raw time-series banking data into proactive business intelligence utilizing Conformal Prediction and LLMs.</i></font></h3><br>
-      <img src="https://skillicons.dev/icons?i=py,scikitlearn,flask" height="40" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top" style="padding: 30px; border: 2px solid #00FFFF; background-color: #050B14; border-radius: 12px;">
-      <img src="https://img.icons8.com/fluency/96/security-checked.png" width="80" align="center"/><br>
-      <h1><font face="Arial Black" color="#0088FF"><i>Vajra Sentinel</i></font></h1><br>
-      <img src="https://img.shields.io/badge/Cybersecurity-Defense_in_Depth-0088FF?style=for-the-badge&labelColor=000000&color=00FFFF" /><br><br>
-      <h3><font face="Georgia" color="#FFFF00"><i>A high-security ecosystem enforcing municipal data sovereignty. Features a strict Defense-in-Depth philosophy to protect registries against advanced adversarial threats.</i></font></h3><br>
-      <img src="https://skillicons.dev/icons?i=go,cpp,linux" height="40" />
-    </td>
-    <td width="50%" align="center" valign="top" style="padding: 30px; border: 2px solid #0088FF; background-color: #050B14; border-radius: 12px;">
-      <img src="https://img.icons8.com/fluency/96/bot.png" width="80" align="center"/><br>
-      <h1><font face="Arial Black" color="#00FFFF"><i>Campus Assistant BOT</i></font></h1><br>
-      <img src="https://img.shields.io/badge/RAG_Architecture-NLP_Omnichannel-00FFFF?style=for-the-badge&labelColor=000000&color=0088FF" /><br><br>
-      <h3><font face="Georgia" color="#FF6600"><i>An advanced, multilingual, omnichannel RAG chatbot. Implemented MMR for diverse retrieval, reducing redundant responses by 45% and improving accuracy by 30%.</i></font></h3><br>
-      <img src="https://skillicons.dev/icons?i=py,mongodb,aws" height="40" />
     </td>
   </tr>
 </table>
